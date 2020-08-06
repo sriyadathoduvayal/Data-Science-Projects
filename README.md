@@ -1,2 +1,2 @@
-# Logistic-Regression-Project
-Classification Problem
+# Logistic-Regression and linear regression Project
+
